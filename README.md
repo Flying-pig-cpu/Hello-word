@@ -1,2 +1,4 @@
 # Hello-word
-just another reppository
+Hi humans!
+
+Hubut here,I like Node.js and coffeescript(thats what Im made of!)
